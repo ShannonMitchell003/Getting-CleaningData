@@ -9,10 +9,10 @@ Files in the respository:
 2. run_analysis.R - runs code to tidy the original dataset so that it is prepared for future analyses.
 
 run_analysis.R performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
-Merges the Training and the Test datasets to create one data set.
-Extracts the mean and standard deviation for each measurement.
-Renames Activity names to be more descriptive.
-Renames variable names to be more descriptive.
-Creates a tidy dataset with the average for each variable to be used in downstream analysis.
+1. Merges the Training and the Test datasets to create one data set.
+2. Extracts the mean and standard deviation for each measurement.
+3. Renames Activity names to be more descriptive.
+4. Renames variable names to be more descriptive.
+5. Creates a tidy dataset with the average for each variable to be used in downstream analysis.
 
 TidyData.txt is the resultant file of the above process.
